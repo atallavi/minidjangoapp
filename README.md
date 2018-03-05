@@ -1,2 +1,2 @@
 # minidjangoapp
-Minimal Django App 
+Minimal Django App for Deploy Labs.
