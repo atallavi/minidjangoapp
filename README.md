@@ -1,0 +1,2 @@
+# minidjangoapp
+Minimal Django App 
